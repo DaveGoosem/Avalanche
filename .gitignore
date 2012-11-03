@@ -1,3 +1,10 @@
+#Custom Avalanche ignore items:
+
+Temp/*
+
+
+#Git Default "Android" ignore items:
+
 # built application files
 *.apk
 *.ap_
