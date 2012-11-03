@@ -1,6 +1,8 @@
 #Custom Avalanche ignore items:
 
 Temp/*
+Library/cache/*
+Library/metadata/*
 
 
 #Git Default "Android" ignore items:
