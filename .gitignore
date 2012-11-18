@@ -3,6 +3,11 @@
 Temp/*
 Library/cache/*
 Library/metadata/*
+Library/previews/*
+Assets/Avalanche/Images/ideas/*
+Assets/Avalanche/Images/workbench/*
+Assets/Avalanche/Models/Workbench/*
+
 
 
 #Git Default "Android" ignore items:
